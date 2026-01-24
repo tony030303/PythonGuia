@@ -45,7 +45,7 @@
 #PAQUETES
 
 #para que python identifique un paquete:
-#__init__.py 
+#__init__.py en el directorio que queremos que sea pack 
 import paquete
 
 #un subpaquete es aquel paquete que tiene ese identificador que a su vez es hijo de un paquete.
